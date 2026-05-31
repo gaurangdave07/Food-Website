@@ -1,45 +1,3 @@
-# Gericht | Restaurant Landing Page 2 - React, Vite, TypeScript, Framer Motion, CSS Modules, Frontend Project
-
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Vite](https://img.shields.io/badge/Vite-7.3.1-646CFF)](https://vitejs.dev/)
-[![React](https://img.shields.io/badge/React-18.2.0-61DAFB)](https://react.dev/)
-[![TypeScript](https://img.shields.io/badge/TypeScript-5.9.3-3178C6)](https://www.typescriptlang.org/)
-[![Framer Motion](https://img.shields.io/badge/Framer_Motion-12.34.3-BB4B96)](https://www.framer.com/motion/)
-[![React Icons](https://img.shields.io/badge/React_Icons-4.3.1-F26896)](https://react-icons.github.io/react-icons/)
-
-A modern, fully responsive restaurant website built with **React 18**, **Vite 7**, **TypeScript**, and **Framer Motion**. It showcases a premium dining experience with smooth scroll-triggered animations, an auto-playing photo gallery, video hero section, menu, awards, and contact sections. Ideal for learning React component architecture, TypeScript, Vite, and animation patterns.
-
-- **Live Demo:** [https://restaurant-ui-2.vercel.app/](https://restaurant-ui-2.vercel.app/)
-
-![Screenshot 2025-07-30 at 15 57 02](https://github.com/user-attachments/assets/d9f0ec6f-ccb7-4505-a470-665ab157b6bb)
-![Screenshot 2025-07-30 at 15 57 22](https://github.com/user-attachments/assets/fc1e2406-61f2-4716-aadf-2c7ff040fd59)
-![Screenshot 2025-07-30 at 15 57 37](https://github.com/user-attachments/assets/3b3552bd-52ef-452a-b9e1-5cc890ccdac1)
-![Screenshot 2025-07-30 at 15 57 50](https://github.com/user-attachments/assets/896d2550-d3d6-4ceb-9620-7fc655269c79)
-![Screenshot 2025-07-30 at 15 58 06](https://github.com/user-attachments/assets/67b95060-db2a-4261-8bb5-2e18dd4915bc)
-![Screenshot 2025-07-30 at 15 58 17](https://github.com/user-attachments/assets/46e2ddcd-05eb-481d-bfba-db95cc6e2e54)
-![Screenshot 2025-07-30 at 15 58 28](https://github.com/user-attachments/assets/44b5986c-0f12-4af8-a181-1cc43b89a157)
-![Screenshot 2025-07-30 at 15 58 37](https://github.com/user-attachments/assets/b02f5d0e-7ed1-48e0-9398-5b01a03aaa19)
-![Screenshot 2025-07-30 at 15 58 50](https://github.com/user-attachments/assets/286236b9-5cc7-4a3a-85a1-d885bb2666fb)
-
-## Table of Contents
-
-- [Project Overview](#project-overview)
-- [Features & Functionalities](#features--functionalities)
-- [Technology Stack](#technology-stack)
-- [Project Structure](#project-structure)
-- [Components & Containers](#components--containers)
-- [How to Run & Use](#how-to-run--use)
-- [Project Walkthrough](#project-walkthrough)
-- [Reusing Components](#reusing-components)
-- [Environment Variables (.env)](#environment-variables-env)
-- [API & Backend](#api--backend)
-- [Scripts Reference](#scripts-reference)
-- [Keywords](#keywords)
-- [Conclusion](#conclusion)
-- [License](#license)
-
----
-
 ## Project Overview
 
 **Gericht** is a single-page application (SPA) for a fictional fine-dining restaurant. It is a **frontend-only** project: all content is static or driven by local data (no backend or external API). The app uses **Vite** for fast development and production builds, **TypeScript** for type safety, and **Framer Motion** for entrance and scroll-based animations (navbar, hero, sections, footer). The design uses a dark theme with golden and white accents, custom fonts (Cormorant Upright, Open Sans), and modular CSS per component.
@@ -365,16 +323,4 @@ You can extend it by adding a real newsletter API, more sections, or switching t
 
 ---
 
-## License
 
-This project is licensed under the [MIT License](https://opensource.org/licenses/MIT). Feel free to use, modify, and distribute the code as per the terms of the license.
-
-## Happy Coding! 🎉
-
-This is an **open-source project** - feel free to use, enhance, and extend this project further!
-
-If you have any questions or want to share your work, reach out via GitHub or my portfolio at [https://www.arnobmahmud.com](https://www.arnobmahmud.com).
-
-**Enjoy building and learning!** 🚀
-
-Thank you! 😊
